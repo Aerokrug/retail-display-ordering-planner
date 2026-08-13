@@ -1,4 +1,0 @@
-display_id,fixture_type,duration_days_this_year,duration_days_prior_year,growth_target_pct,tie_in,tie_in_bonus_pct,context_notes
-pudding_endcap_2025,shelf,14,14,0.10,true,0.05,"Back-to-school tie-in promotion. Comparable timing/weather to prior year's run, no known confounding factors."
-produce_crate_2025,crate,10,10,0.05,false,0.0,"Summer produce promotion, high-traffic front-of-store placement."
-soda_stack_2025,side_stack,10,10,0.15,true,0.10,"Summer BBQ tie-in promotion at store entrance."
