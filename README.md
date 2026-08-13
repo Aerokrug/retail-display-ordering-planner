@@ -119,15 +119,11 @@ data/       sample CSVs, generated db and mockup images
 
 ## stuff that's not done / would want to fix
 
-- no shopping list export - just a plain csv of variety + cases to order
-  would be genuinely useful and I haven't gotten around to it
 - the eye-level shelf weighting is just a merchandising rule of thumb I
   found, not real data. same with the curve shape the LP optimizer uses
-  for diminishing returns on extra facings - both are guesses that would
-  be worth replacing once there's enough logged history to fit something
-  real
+  for diminishing returns on extra facings
 - forecasting only looks at one prior year, blending a couple years with
-  more weight on the recent one would probably be more stable
+  more weight on the recent one would be more stable
 - no uncertainty range on the forecast, it's a single number even though
   there's a handful of stacked guesses behind it (growth target x
   elasticity x bias correction). a conservative/expected/aggressive range
